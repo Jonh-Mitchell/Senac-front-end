@@ -1,0 +1,58 @@
+.texto {
+    text-align: center;
+    text-decoration: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-display: flex;
+    
+}
+ header {
+    text-align: center;
+    text-decoration: black;
+    border: solid;
+    font: size 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-display: flex;
+    background-color: gold;
+
+ }
+ 
+
+
+ main {
+
+ }
+nav {
+    text-align: center;
+    text-decoration: black;
+    background-color: #0CA54B;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-display: flex;
+}
+
+body{
+    margin: 0;
+    
+    
+}
+
+
+
+.fundo {
+    position: cover;
+        height: 100vh;
+        width: 100vw;
+        display: flex;
+        background-repeat: no-repeat;
+        opacity: 0.2; 
+        background-position: 50%;
+    
+        /*   background-color: burlywood; */
+       /*  background-image: url(https://img.nsctotal.com.br/wp-content/uploads/2020/10/bandeira-do-brasil-944x531.jpg); */
+        background-size: cover;
+        color: black;
+       
+    background-image: url(https://img.nsctotal.com.br/wp-content/uploads/2020/10/bandeira-do-brasil-944x531.jpg);
+}
+
+

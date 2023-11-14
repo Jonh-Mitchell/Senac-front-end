@@ -1,0 +1,15 @@
+main{
+    display: grid;
+    grid-template-areas: 
+    "head head head"
+    "nav nav nav"
+    "side content content";
+}
+.img-topo{
+    width: 1800px;
+    height: 800px;
+}
+.img-esq {
+    width: 200px;
+    height: 500px;
+}

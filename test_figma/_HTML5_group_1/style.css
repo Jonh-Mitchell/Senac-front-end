@@ -1,0 +1,356 @@
+/*
+	@name group_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1262px; width: 1262px; height: 752px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#rectangle_10 {
+	top: -135px;
+	left: -657px;
+	width: 1262px;
+	height: 752px;
+	background:rgba(245.44,244.41,244.41,1);
+}
+
+
+#pre_o_unit_rio {
+	top: 337px;
+	left: -577px;
+	width: 196.4px;
+	height: 36.4px;
+	overflow: hidden;
+	font-family: Inria Sans;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_3 {
+	top: -84px;
+	left: -540px;
+	width: 967px;
+	height: 99px;
+	background:rgba(10.49,107.02,251.81,1);
+}
+
+
+#rectangle_4 {
+	opacity:0.80000001192093;
+	top: 99px;
+	left: -585px;
+	width: 221px;
+	height: 36px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(230,230,230,0.8);
+}
+
+
+#rectangle_7 {
+	opacity:0.80000001192093;
+	top: 373px;
+	left: -585px;
+	width: 221px;
+	height: 36px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(230,230,230,0.8);
+}
+
+
+#rectangle_6 {
+	opacity:0.80000001192093;
+	top: 510px;
+	left: -585px;
+	width: 221px;
+	height: 36px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(230,230,230,0.8);
+}
+
+
+#cod__produto {
+	top: 63px;
+	left: -567px;
+	width: 175.4px;
+	height: 36.4px;
+	overflow: hidden;
+	font-family: Inria Sans;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_5 {
+	opacity:0.80000001192093;
+	top: 236px;
+	left: -585px;
+	width: 221px;
+	height: 36px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(230,230,230,0.8);
+}
+
+
+#quantidade {
+	top: 200px;
+	left: -561px;
+	width: 158.4px;
+	height: 36.4px;
+	overflow: hidden;
+	font-family: Inria Sans;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#total {
+	top: 474px;
+	left: -514px;
+	width: 85.4px;
+	height: 36.4px;
+	overflow: hidden;
+	font-family: Inria Sans;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_9 {
+	top: 278px;
+	left: -121px;
+	width: 384px;
+	height: 190px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(10,107,252,1);
+}
+
+
+#desconto_ {
+	top: 357px;
+	left: -96px;
+	width: 126.4px;
+	height: 38.4px;
+	overflow: hidden;
+	font-family: Inria Sans;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 31.199998855591px;
+	color:#FFFFFF;
+}
+
+
+#total_ {
+	top: 409px;
+	left: -96px;
+	width: 78.4px;
+	height: 38.4px;
+	overflow: hidden;
+	font-family: Inria Sans;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 31.199998855591px;
+	color:#FFFFFF;
+}
+
+
+#subtotal_ {
+	top: 305px;
+	left: -97px;
+	width: 120.4px;
+	height: 38.4px;
+	overflow: hidden;
+	font-family: Inria Sans;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 31.199998855591px;
+	color:#FFFFFF;
+}
+
+#__row {
+	top: 63px;
+	left: -244px;
+	width: 630px;
+	height: 51px;
+}
+
+#_bg____row_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 630px;
+	height: 51px;
+	background:rgba(255,255,255,0);
+}
+
+
+#cell {
+	top: 0px;
+	left: 0px;
+	width: 210px;
+	height: 51px;
+}
+
+
+#cell_ek1 {
+	top: 0px;
+	left: 210px;
+	width: 210px;
+	height: 51px;
+}
+
+
+#cell_ek2 {
+	top: 0px;
+	left: 420px;
+	width: 210px;
+	height: 51px;
+}
+
+#__row_ek2 {
+	top: 114px;
+	left: -244px;
+	width: 630px;
+	height: 36px;
+}
+
+#_bg____row_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 630px;
+	height: 36px;
+	background:rgba(255,255,255,0);
+}
+
+
+#cell_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 210px;
+	height: 36px;
+}
+
+
+#cell_ek4 {
+	top: 0px;
+	left: 210px;
+	width: 210px;
+	height: 36px;
+}
+
+
+#cell_ek5 {
+	top: 0px;
+	left: 420px;
+	width: 210px;
+	height: 36px;
+}
+
+#__row_ek4 {
+	top: 150px;
+	left: -244px;
+	width: 630px;
+	height: 36px;
+}
+
+#_bg____row_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 630px;
+	height: 36px;
+	background:rgba(255,255,255,0);
+}
+
+
+#cell_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 210px;
+	height: 36px;
+}
+
+
+#cell_ek7 {
+	top: 0px;
+	left: 210px;
+	width: 210px;
+	height: 36px;
+}
+
+
+#cell_ek8 {
+	top: 0px;
+	left: 420px;
+	width: 210px;
+	height: 36px;
+}
+
+#group_2 {
+	top: -50px;
+	left: -159px;
+	width: 204px;
+	height: 31px;
+}
+
+#_bg__group_2_ek1 {
+	top: 50px;
+	left: 159px;
+	width: 204px;
+	height: 31px;
+	/* background:#; */
+}
+
+
+#pedido___mesa_3 {
+	top: 0px;
+	left: -4px;
+	width: 211.4px;
+	height: 38.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 31.199998855591px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="minhaFuncao()">Clique aqui</button>
+    <p id="janela"></p>
+
+    <script>
+        function minhaFuncao() {
+            let text = "Confirma a operação?\n OK ou CANCELAR?";
+            if (confirm(text) == true){
+                text = "Operação confirmada!"
+            }else{
+                text = "Operação cancelada!"
+            }
+            document.getElementById("janela").innerHTML = text;
+        }
+    </script>
+</body>
+</html>

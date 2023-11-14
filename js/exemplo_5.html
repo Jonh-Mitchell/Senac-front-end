@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Preencha o formulario:</h2>
+
+    <form name="cadastro">
+        Nome: <input id="input_user" ><br><br>
+        Endereço: <input id="input_endereço" onfocus="copiarTexto()"><br><br>
+        <input type="button" value="Enviar" ">
+
+    </form>
+
+    <script type="text/javascript">
+        
+        const input1 = document.getElementById("input_user")
+        const input2 = document.getElementById("input_endereço")
+       function copiarTexto(){
+            if (input2) {
+                input2.value = input1.value
+            }
+       }
+        
+        
+        
+
+    </script>
+</body>
+</html>

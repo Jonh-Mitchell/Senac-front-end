@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "aula-bootstrap",
+			"path": "."
+		},
+		{
+			"name": "lightbox2-2.11.4",
+			"path": "../../lightbox2-2.11.4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aula-bootstrap"
+	}
+}

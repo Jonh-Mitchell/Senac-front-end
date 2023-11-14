@@ -1,0 +1,93 @@
+body {
+    background-color: bisque;
+    background-position: center;
+    background-size:cover;    
+    margin: 500px;
+}
+
+form {
+    margin: 200px;
+
+}
+fieldset{
+    text-align: center;
+    margin: 150px;
+    padding: 50px;
+    
+}
+
+main{
+    margin: auto;
+
+
+
+}
+
+h4 {
+   
+    text-align: center;
+    
+}
+.header-sys{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200px;
+    display: flex;
+    text-align: center;
+    margin: 100px;
+    text-align: center;
+}
+
+/* .h1-header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200px;
+    display: flex;
+    text-align: center;
+    margin: 100px;
+    text-align: center;
+} */
+
+.conteiner{
+   
+    display: flex;
+    flex-wrap: wrap;
+   /*  justify-content: space-between;  */
+}
+.btn{
+    margin: 200px;
+    border:solid;
+    width: 200px;
+    
+}
+
+
+.mesa{
+    text-align: center;
+    position:relative;
+    margin: 100px;
+}
+
+.img-mesa{
+    width: 200px;
+    height: 200px;
+}
+
+.btn:hover{
+    background-color: greenyellow;
+    /* transition-duration: 10ms; */
+   /*  box-shadow:5px 5px gray; */
+   box-shadow:0 0 50px green, 0 0 75px greenyellow,
+   0 0 200px green, 0 0 500px greenyellow;
+
+    cursor: pointer;
+}
+.btn:active{
+    background-color: yellowgreen;
+    color: wheat;
+
+}
+.btn:focus{
+    background-color: violet;
+    color: aliceblue;
+}
+

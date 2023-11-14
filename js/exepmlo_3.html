@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Preencha o formulario:</h2>
+
+    <form name="cadastro">
+        Nome: <input id="input_user" name="nome"><br><br>
+        E-mail: <input id="input_email" name="email"><br><br>
+        Cpf: <input id="input_cpf" name="cpf"><br><br>
+        Instagram: <input id="input_email" name="instagram"><br><br>
+        Facebook: <input id="input_email" name="facebook"><br><br>
+        <input type="button" value="Enviar" onclick="ValidarCampo()">
+
+    </form>
+
+    <script type="text/javascript">
+        function ValidarCampo(){
+            let nomeInput = cadastro.nome
+            let emailInput = cadastro.email
+            let cpfInput = cadastro.cpf
+            let instagramInput = cadastro.instagram
+            let facebookInput = cadastro.facebook
+
+
+                if(nomeInput.value == "" || cpfInput.value == "" || instagramInput.value == "" || emailInput.value == "" || facebookInput.value == ""){
+                    alert("Preencha o campo vazio")
+                }else{
+                    alert("Cadastro Realizado")
+                }
+
+        }
+        
+
+    </script>
+</body>
+</html>
